@@ -14,7 +14,7 @@ git clone https://github.com/Anum29/TFL-Cycling-Data-Analytics-.git
 
  
 2. Install the required Python libraries:
-pip install -r requirements.txt
+`pip install -r requirements.txt`
 
 
 ## Usage
