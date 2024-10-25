@@ -1,6 +1,6 @@
 # TFL Cycling Data Analysis
 
-This repository contains code and analysis for the TFL Cycling Data Analysis project. The project focuses on exploring and analyzing the bike rental data from Transport for London (TFL) to gain insights and make data-driven decisions.
+This repository contains code and analysis for the TFL Cycling Data Analysis project. The project focuses on exploring and analyzing the bike rental data from Transport for London (TFL) to gain insights and make data-driven decisions. This project provides data-driven suggestions to support their expansion efforts, using TFL’s cycling dataset from 2021 to 2023 [TFL Cycling Dataset](https://cycling.data.tfl.gov.uk/).
 
 ## Table of Contents
 - [Installation](#installation)
